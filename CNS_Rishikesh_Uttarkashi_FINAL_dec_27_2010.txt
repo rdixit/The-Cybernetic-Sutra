@@ -1,6 +1,6 @@
 The Cybernetic sutra
 2007-2010
-
+f
 Scale 1- Cover 8 spoked wheel (chakra, helm from cyber-netes, 8 spoked wheel of dharma from buddhism, 8 limbed yoga from Vedic tradition)
 Scale 2- Hymn to the World (Brahmanda, Shakti, Kalachakra, Indra's net, Logos, Ouroboros, Shambhala, Tandava)
 Scale 3- Networks, Neuroscience, Nirvana
@@ -380,7 +380,7 @@ Self-organized Community ISP:
 
 
 
-The universal rules and dynamics that have been discovered in the study of networks have been applied to almost every field of science, including physics, systems biology, chemistry, computer science, seismology, management, neuroscience, sociology, and electrical engineering. The fascinating conclusion that all these seemingly disconnected areas can actually be boiled down to a single, underlying framework has been mostly, although not entirely, confined to academic discussions in professional journals. We won't bother with academic publications, luckily, and will simply straight-away apply these concepts in a practical way in our lives, here and now. 
+The universal rules and dynamics that have been discovered in the study of networks have been applied to almost every field of science, including physics, systems biology, chemistry, computer science, seismology, management, neuroscience, sociology, and electrical engineering. The fascinating conclusion that all these seemingly disconnected areas can actually be boiled down to a single, underlying framework has been mostly, although not entirely, confined to academic discussions in professional journals. We won't bother with academic publications, luckily, and will simply apply these concepts straight-away in our practical lives.
 
 The simplicity of the network, as a concept, is a powerful discovery that can be used to re-think and re-evaluate our entire society: our financial system, our relationship with our ecosystem, even our government. However, some basics about networks will be helpful for us in thinking about how to go about this.
 
@@ -409,7 +409,7 @@ Trade-
 -Google for open supply chains (start w/ food example, extrapolate to any manner of goods)
 -distributed transportation (how to actually get those goods)
 -microwork and getting a distributed remote job
--Money supply in digital currencies
+ -Money supply in digital currencies
 
 
 
