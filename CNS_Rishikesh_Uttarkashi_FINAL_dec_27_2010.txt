@@ -1,6 +1,6 @@
 The Cybernetic sutra
 2007-2010
-f
+
 Scale 1- Cover 8 spoked wheel (chakra, helm from cyber-netes, 8 spoked wheel of dharma from buddhism, 8 limbed yoga from Vedic tradition)
 Scale 2- Hymn to the World (Brahmanda, Shakti, Kalachakra, Indra's net, Logos, Ouroboros, Shambhala, Tandava)
 Scale 3- Networks, Neuroscience, Nirvana
@@ -13,7 +13,7 @@ Neuroscience: Neuroscience and consciousness
 Nirvana: Love and how to live, meditate and fulfill your potential.
 
 
-
+Style: Practical guide to implementing a cybernetic society, with minimal necessary theory required for complete understanding. Air of mystery arises from straight-forward, direct style
 
 Scale 1- Picture of 8 spoked wheel
 
@@ -211,7 +211,7 @@ external world- communication, trade, environmental, government, social and tech
 
 
 
-The fundamental premise of this text is that the world, our bodies and even our mind can be thought of as a network. By networks we simply mean individuals or things connected by relationships. That can include anything from people connected by friendship, neurons connected by synapses, or televisions, computers and satellites connected by the global telecommunications system. One additional facet to keep in mind is that these relationships are dynamic, in the sense that they can change over time. If you start to look carefully, you'll see that networks underlie a lot of our everyday world. But if they are so common, why bother with the intellectual abstraction of "a network" at all?
+The fundamental premise of this text is that the world, our bodies and even our mind can be thought of as a network. By networks we simply mean individuals or things connected by relationships. That can include anything from people connected by friendship, neurons connected by synapses, or televisions, computers and satellites connected by a global telecommunications system. If you start to look carefully, you'll notice that networks underlie a lot of our everyday world. But if they are so common, why bother with the intellectual abstraction of "a network" at all?
 
 Networks, over the past 20 years, have compelled researchers to create an entirely new field of science, called network science or complex systems science, with tools and concepts that we can apply, in a very practical way, to redesigning our own lives and societies. Whereas traditional sciences are very linear and mechanistic, with one event predictably leading to the next, complex systems are built from many individual components, acting together and often simultaneously, in a complex web of relationships that are interdependent on each-other. 
 
@@ -245,7 +245,7 @@ After some discussion, it appeared to Weiner and others that the fundamental nec
 1) a communication system and 
 2) feedback.
 
-We can illustrate these two fundamental cybernetic components using the example of a 1950's anti-aircraft gunnery tower, one of the original applications from the post-World War II mileiu.
+We can illustrate these two fundamental cybernetic components using the example of a 1950's anti-aircraft gunnery tower, one of the original applications from the post-World War II milieu.
 
 [FIGURE 1-3: figure from Cybernetics by Weiner, or perhaps wikipedia, showing the automated gunnery towers for shooting aircraft]
 
@@ -262,15 +262,15 @@ So what we have here is a 3 step process, repeated ad infinitum:
 
 Again, this can be represented as a simple network, with individual actors (or "nodes", in network parlance) representing sensors, motors, computers, etc., and connections between nodes representing the sending of a signal from one component to another over a communication line. 
 
-So the first necessary ingredient of a cybernetic application, a communication system, is the network of wires connecting the individual components (and the mutually understood signals they send over those wires.) But where is the feedback, the second necessary ingredient? As you might remember from the Shakira's Shoes example, feedback occurs whenever there is a circular loop in the network- here we again see such a circular loop, with the computer receiving signals from the two sensors, performing a calculation, doing something based on that calculation, and then sending requests for more information from the sensors again. This is exactly the same process that the store manager and the customers engaged in, except directly and not through a communication wire: the customers (or "sensors") sent a signal by buying or not buying, the store manager performed a "mental calculation" as to how he could maximize his sales, either changed or didn't change the price (action) based on his calculation, and finally sent a "request" back to the customers by gauging their demand for the newly priced shoes.
+So the first necessary ingredient of a cybernetic application, a communication system, is the network of wires connecting the individual components (and the electrical signals they send over those wires.) But where is the feedback, the second necessary ingredient? As you might remember from the Shakira's Shoes example, feedback occurs whenever there is a circular loop in the network- here we again see such a circular loop, with the computer receiving signals from the two sensors, performing a calculation, doing something based on that calculation, and then sending requests for more information from the sensors again. This is exactly the same process that the store manager and the customers engaged in, except directly and not through a communication wire: the customers (or "sensors") sent a signal by buying or not buying, the store manager performed a "mental calculation" as to how he could maximize his sales, either changed or didn't change the price (action) based on his calculation, and finally sent a "request" back to the customers by gauging their demand for the newly priced shoes.
 
 [Figure 1-5- Simplified Shakira's Shoes diagram showing same network arrangement as 1-4] 
 
 These applications are still pretty simple, both in the complexity of the wiring of the network, and the number of components involved. But you might imagine that you could use the concepts of a communication network and feedback to do a lot more complex things, like, say, automatically run an automobile factory. For example, you could determine when and how many cars the factory should make (based on calculations from signals like customer demand), when and how many raw parts the factory should order (based on data from inventory levels), and whether to hire or fire workers (determined by, perhaps, the difference between the number of needed and actually produced cars.) 
 
-Actually, you could do a lot of this, even in 1948, and today much of it falls under fields related to cybernetics called (more respectably, it would appear) operations research and management science. But given the basics of a communication network and feedback, just how far coud you take this idea of automation? Could you use it to help run an entire society?
+Actually, you could do a lot of this, even in 1948, and today much of it falls under fields related to cybernetics called (more respectably, it would appear) operations research and management science. But given the basics of a communication network and feedback, just how far could you take this idea of automation? Could you use it to help run an entire society?
 
-A man named Stafford Beers tried to do exactly that in the fall of 1971 in Chile. The government of Chile, a newly elected techno-socialist adminstration, wanted to create a centralized, automated network of factories to efficiently and cheaply make shoes, hats, and Walkman cassette players (etc. etc.) for its millions of citizens, and they hired Stafford Beers to help do just that. Beers himself was an academic and cybernetician from the University College London
+A man named Stafford Beers tried to do exactly that in the fall of 1971 in Chile. The government of Chile, a newly elected techno-socialist administration, wanted to create a centralized, automated network of factories to efficiently and cheaply make shoes, hats, and Walkman cassette players (etc. etc.) for its millions of citizens, and they hired Stafford Beers to help do just that. 
 
 
 
@@ -280,24 +280,26 @@ A man named Stafford Beers tried to do exactly that in the fall of 1971 in Chile
 
 
 
-who jumped at the chance to try out his ideas, which were all on paper up to that point, on an entire country the size of Chile. The result of the operation looked like something out of a classic Star Trek set- a circular arrangement of huge, electronics embedded chairs controlling huge screens displaying real-time data coming from the dozens of factories being run by the project. 
+Beers himself was an academic and cybernetician from the University College London who jumped at the chance to try out his ideas, which were all on paper up to that point, on an entire country the size of Chile. The result of the operation looked like something out of a classic Star Trek set- a circular arrangement of huge, electronics embedded chairs controlling huge screens displaying real-time data coming from the dozens of factories being run by the project. 
 
-Technically the purpose of the project was to create a national, near-instantaneous computerized system to run the entire Chilean economy. It did this through a network of 500 Telex machines positioned at factories all over the country, which sent signals like total output, inventory, and so on at daily or hourly intervals into the command center in Santiago. Feedback to the factories occured by decision of the commmand room's computer and industrial experts, 
-who sent the results of their analysis back to the factories by way of the Telex communication network. 
+Technically the purpose of the project was to create a national, near-instantaneous computerized system to run the entire Chilean economy. It did this through a network of 500 Telex machines positioned at factories all over the country, which sent signals like total output, inventory, and so on at daily intervals into the command center in Santiago. Feedback to the factories occurred by decision of the command room's computer and industrial experts, who sent the results of their analysis back to the factories by way of the Telex communication network. 
 
-The Cybersyn project ran for only a little over a year, during which time Chile's economic indicators seemed to be better than or similar to the previously "pure capitalist" economy. According to Wikipedia, one of its successes was effectively organizing the shipment of food into Santiago during a massive 50,000 truck-driver strike, using only 200 non-striking trucks and the Telex network. A true test of the system over many years, however, never came; a U.S. backed military coup in 1973, and the subsequent ousting of the government, ended in the official suicide death of the democratically elected President Allende and destruction of the control room and data-crunching computers.
+The Cybersyn project ran for only a little over a year, during which time Chile's economic indicators seemed to be better than or similar to the previously "pure capitalist" economy. According to Wikipedia, one of its successes was effectively organizing the shipment of food into Santiago during a massive 50,000 truck-driver strike, using only 200 non-striking trucks and the Telex network. A true test of the system over many years, however, never came; a U.S. backed military coup in 1973, and the subsequent ousting of the government, ended in the official suicide of the democratically elected President Allende and destruction of the control room and data-crunching computers.
 
 The implication, however, had been made that such a cybernetic system might be viable and actually helpful to society. But the central pieces of the Chilean experiment, built in as they were in the 1970's, revolved around only 500 primitive Telex machines and relatively archaic computers. What type of outcome could we imagine emerging now, and on what kind of scale, given the mass adoption of computers, laptops, mobile devices and the internet?
 
 
 "IT'S A SMALL WORLD, AFTER ALL"
 
-In 19[XX] a 
-Their findings were that, on average, the mail took only 6 intermediate people to reach the randomly-picked final person. What this meant, essentially, was that any two people in the United States were only separated by around 6 mutual acquaintances!
+In 1967, the Summer of Love in San Francisco seemed to portend a seismic shift from the straight-laced, authoritarian 1950's to the hippie, flower powered communitarian revolution. Equally important, but sometimes overlooked, was a Psychology Today article published by Stanley Milgram in the same year entitled "The Small World Problem". 
+
+Milgram was a Harvard psychologist who was interested in methods of quantifying social interconnectedness. Starting with a wildly popular short story by Hungarian author Frigyes Karinthy in 1929, many lay people and academics alike had wondered just how interconnected society really was. To test this idea directly, Milgram and his colleagues sent more than 200 letters to randomly selected people in the United States, along with the name and city of a complete stranger who was designated the "target". Each of the 296 recipients were asked to forward the letter to a personal acquaintance who might help forward the letter to the eventual target. Each letter was designed to hop from one friend to another, recording each jump as it went through the chain of friendship until it reached the target individual.
+
+Milgram found that, on average, the letters took only 6 intermediate people to reach the randomly-picked final person. What this meant, essentially, was that any two people in the United States were only separated by around 6 mutual acquaintances!
 
 [information about hte original 6 degrees experiment in the United States, mention Chains the hungarian short story.]
 
-The experiment brought into parlance the term "small world", as in, "Gee, it's a small world, isn't it?" In certain conversations with complete strangers, you may suddenly come to realize that you have a mutual friend which you didn't realize, and you may even remark about what a small world it is. The small-world concept is also used in network science, but it's been formalized into an easy to understand model of why people really are separated by such a small number of mutual acquaintances.
+The experiment brought into parlance the term "small world", as in, "Gee, it's a small world, isn't it?" In certain conversations with complete strangers, you may suddenly come to realize that you have a mutual friend which you didn't realize, and you may even remark about what a small world it is. This phrase originates from Milgram's experiment. The small-world concept is also used in network science, one of the prime subjects of this book, and it's been formalized into an easy to understand model of why people really are separated by such a small number of mutual acquaintances.
 
 [Figure 1-7: the three pictures of a totally local, a totally centralized, and a small-world net. Include A and B nodes, as per discussion underneath]
 
@@ -411,7 +413,7 @@ Trade-
 -microwork and getting a distributed remote job
  -Money supply in digital currencies
 
-
+Economics is one of the least developed modern sciences and yet simultaneously one of the most important to our modern global system. 
 
 Environmental-
 -Who decides what riverwater costs? 
